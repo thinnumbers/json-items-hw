@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+#headerContainer{
+  font-family: 'Acme', sans-serif;
+  background-image: url('https://i.imgur.com/0AXliCu.png');
+  background-position: center;
+  background-size: cover;
+}
+h1{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20vh;
+  text-align: center;
+}
+
+#subheading{
+  font-size: 20px;
+  text-align: center;
+}
+h2{
+  font-size: 3vmin;
+  text-align: center;
+}
+h3{
+  padding-left: 10px;
+}
+.priceTag{
+  color: #123615;
+  font-size: 70px;
+  text-align: center;
+}
+#contentGrid {
+  font-family: 'Acme', sans-serif;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 1vmin;
+  grid-row-gap: 1vmin;
+  background-color: #333;
+  padding: 1vmin;
+  font-size: 1.5rem;
+}
+.contentImage{
+  margin-left:  40px;
+}
