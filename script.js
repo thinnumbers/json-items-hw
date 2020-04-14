@@ -13,7 +13,7 @@ let jsonDatabase = [
     "image_url" : "https://images-na.ssl-images-amazon.com/images/I/817KFp1wiOL._SY445_.jpg",
     "bg_color" : "#13c8e8",
     "price" : "$60~$90",
-    "reasons" : ["Fun Strategy Game ", "Story that branches", "Ferdinand von Aegir", "Higly Replayable"]
+    "reasons" : ["Fun Strategy Game ", "Story that branches", "Ferdinand von Aegir", "Highly Replayable"]
   },
   {
     "title" : "Animal Crossing",
